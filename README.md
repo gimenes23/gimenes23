@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, sou o Mateus estudante de Front-End
-<div  align="center">
+<div style="display:flex"  align="center">
   <a href="https://github.com/gimenes23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gimenes23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gimenes23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimenes23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -44,15 +44,15 @@ Here are some ideas to get you started:
  
 <a href = "mailto:mateusgimenes20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusgimenes20@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white " target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateus-gimenes-73085621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/mateusgmenes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-gimenes-73085621a/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/mateusgmenes" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
   
-  <div>
+<!--   <div>
     <h2> Donwload Currículo : </h2>
     <a align="center" href="file:///C:/Users/Mateus/Downloads/Curriculo_Mateus_Gimenes.pdf" ><img src="https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg"></a>
-  </div>
+  </div> -->
