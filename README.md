@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<h2> Links dos Repositorio 💚</h2>
+<h2> Links dos Repositório 💚</h2>
  <ol>
    <li> Copy Spotify - https://gimenes23.github.io/copy-spotify/ </li>
    <li> Projeto Final - https://gimenes23.github.io/projetof/ </li>
